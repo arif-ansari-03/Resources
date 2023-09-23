@@ -5,8 +5,14 @@
 
 
 ## General
-[Thi.ng](https://thi.ng)
+[Thi.ng](https://thi.ng)\
+[Catlike Coding](https://catlikecoding.com/)
 
 
 ## Competitive Programming
-[the-hyp0cr1t3 - CC](https://github.com/the-hyp0cr1t3/CC/tree/master)
+[CC - the-hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC/tree/master)\
+[TUTL - YouKn0wWho](https://codeforces.com/blog/entry/95106)
+
+
+## Language Refreces
+[cppreference](https://en.cppreference.com/w/)
