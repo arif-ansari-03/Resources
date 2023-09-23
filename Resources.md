@@ -2,7 +2,8 @@
 ## Machine Learning
 [Pytorch for beginners [yt/freecodecamp.org]](https://www.youtube.com/watch?v=V_xro1bcAuA)  \
 [Papers with code](https://paperswithcode.com/sota)\
-[learnpytorch.io](https://www.learnpytorch.io/)
+[learnpytorch.io](https://www.learnpytorch.io/)\
+[Google Colaboratory](https://colab.research.google.com/)
 
 
 ## General
