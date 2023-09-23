@@ -5,7 +5,7 @@
 
 
 ## General
-[Thi.ng](thi.ng)
+[Thi.ng](https://thi.ng)
 
 
 ## Competitive Programming
