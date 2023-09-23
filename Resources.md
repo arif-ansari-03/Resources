@@ -15,5 +15,5 @@
 [TUTL - YouKn0wWho](https://codeforces.com/blog/entry/95106)
 
 
-## Language Refreces
+## Language References
 [cppreference](https://en.cppreference.com/w/)
