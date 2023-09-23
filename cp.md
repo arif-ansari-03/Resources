@@ -18,6 +18,8 @@
 [TUTL - YouKn0wWho](https://codeforces.com/blog/entry/95106)\
 [CP Algorithms](https://cp-algorithms.com/)
 
+## YouTube Channels/Links
+[Errichto](https://www.youtube.com/@Errichto)
 
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)
