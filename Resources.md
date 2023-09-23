@@ -1,7 +1,8 @@
 # Collection of  resources topic wise
 ## Machine Learning
 [Pytorch for beginners [yt/freecodecamp.org]](https://www.youtube.com/watch?v=V_xro1bcAuA)  \
-[Papers with code](https://paperswithcode.com/sota)
+[Papers with code](https://paperswithcode.com/sota)\
+[learnpytorch.io](https://www.learnpytorch.io/)
 
 
 ## General
