@@ -6,7 +6,7 @@
 [HackerEarth](https://www.hackerearth.com/)\
 [CodeChef](https://www.codechef.com)\
 [AtCoder](https://atcoder.jp/)\
-[TopCoder Arena](https://arena.topcoder.com/index.html#/u/dashboard)
+[TopCoder Arena](https://arena.topcoder.com/index.html#/u/dashboard)\
 [LeetCode](https://leetcode.com/)\
 [Hackerrank](https://www.hackerrank.com/)\
 [Kattis](https://open.kattis.com)\
