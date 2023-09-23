@@ -9,6 +9,10 @@
 [Thi.ng](https://thi.ng)\
 [Catlike Coding](https://catlikecoding.com/)
 
+## YouTube Channels
+[Sebastian Lague](https://www.youtube.com/@SebastianLague)\
+[Errichto](https://www.youtube.com/@Errichto)
+
 
 ## Competitive Programming
 [CC - the-hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC/tree/master)\
