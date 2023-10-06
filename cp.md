@@ -22,7 +22,8 @@
 [Errichto](https://www.youtube.com/@Errichto)
 
 ## Graph Theory
-[-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)
+[-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
+[Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
 
 
 ## Random blogs
