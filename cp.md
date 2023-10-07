@@ -21,6 +21,9 @@
 ## YouTube Channels/Links
 [Errichto](https://www.youtube.com/@Errichto)
 
+## Two Pointers, Prefix Sum, Binary Search
+[Sum of all Subarrays (Prefix Sum)](https://www.geeksforgeeks.org/sum-of-all-subarrays/)
+
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
