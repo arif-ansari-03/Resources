@@ -32,8 +32,9 @@
 ### Reversible Operations
 <details open>
 <summary>Problems</summary>
-[430C](https://codeforces.com/problemset/problem/430/C)
-<br>
+<ul>
+  <li><a href="https://codeforces.com/problemset/problem/430/C">CF 430 C</a></li>
+</ul>
 </details>
 
 ## Graph Theory
