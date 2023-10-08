@@ -30,7 +30,7 @@
 
 ## Math
 ### Reversible Operations
-<details open>
+<details>
 <summary>Problems</summary>
 <ul>
   <li><a href="https://codeforces.com/problemset/problem/430/C">CF 430 C</a></li>
