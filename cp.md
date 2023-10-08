@@ -34,4 +34,5 @@
 
 
 ## Random blogs
-[Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)
+[Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
+[Non-Recursive Segment Tree](https://codeforces.com/blog/entry/1256)
