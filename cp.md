@@ -28,6 +28,14 @@
 ## Two Pointers, Prefix Sum, Binary Search
 [Sum of all Subarrays (Prefix Sum)](https://www.geeksforgeeks.org/sum-of-all-subarrays/)
 
+## Math
+### Reversible Operations
+<details open>
+<summary>Problems</summary>
+<br>
+[430C](https://codeforces.com/problemset/problem/430/C)
+</details>
+
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
