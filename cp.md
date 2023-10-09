@@ -44,4 +44,4 @@
 
 ## Random blogs
 [Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
-[Non-Recursive Segment Tree](https://codeforces.com/blog/entry/1256)
+[AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)
