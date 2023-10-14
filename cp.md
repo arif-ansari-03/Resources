@@ -37,6 +37,11 @@
 </ul>
 </details>
 
+## Dynamic Programming
+### Bitmask DP
+[Bitmasks](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)\
+[USACO](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
+
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
