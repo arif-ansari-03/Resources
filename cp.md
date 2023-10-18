@@ -30,6 +30,9 @@
 ## Two Pointers, Prefix Sum, Binary Search
 [Sum of all Subarrays (Prefix Sum)](https://www.geeksforgeeks.org/sum-of-all-subarrays/)
 
+## Number Theory
+[Prime Gap](https://en.wikipedia.org/wiki/Prime_gap#:~:text=The%20first%2060%20prime%20gaps,sequence%20A001223%20in%20the%20OEIS) - max prime gap upto 10^9 is 282
+
 ## Math
 ### Reversible Operations
 <details>
