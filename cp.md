@@ -22,7 +22,8 @@
 [List of CF Blogs 1](https://codeforces.com/blog/entry/91363)\
 [List of CF Blogs 2](https://codeforces.com/blog/entry/57282)\
 [List of CF Blogs 3](https://codeforces.com/blog/entry/13529)\
-[Competitive Programmer's Handbook](https://usaco.guide/CPH.pdf)
+[Competitive Programmer's Handbook](https://usaco.guide/CPH.pdf)\
+[Dynamic Programming for Computing Contests](https://dp-book.com/Dynamic_Programming.pdf#page=37)
 
 ## YouTube Channels/Links
 [Errichto](https://www.youtube.com/@Errichto)
