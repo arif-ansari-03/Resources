@@ -54,7 +54,9 @@
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
 
+## Segment Trees
+[AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)
 
 ## Random blogs
 [Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
-[AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)
+[O(1) runtime prime checking](https://codeforces.com/blog/entry/79941?locale=en)
