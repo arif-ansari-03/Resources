@@ -62,3 +62,7 @@
 ## Random blogs
 [Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
 [O(1) runtime prime checking](https://codeforces.com/blog/entry/79941?locale=en)
+
+## Pitfalls
+stl containers have use unsigned integers for sizes and lengths\
+using bitwise shift for integers can cause issues, use long long int and use (1LL<<x) instead of (1<<x)
