@@ -38,7 +38,7 @@
 
 ## Math
 ### Reversible Operations
-[XOR Trick](https://florian.github.io/xor-trick/)\
+[XOR Trick](https://florian.github.io/xor-trick/)
 <details>
 <summary>Problems</summary>
 <ul>
