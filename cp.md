@@ -19,6 +19,7 @@
 [CC - the-hyp0cr1t3](https://github.com/the-hyp0cr1t3/CC/tree/master)\
 [TUTL - YouKn0wWho](https://codeforces.com/blog/entry/95106)\
 [CP Algorithms](https://cp-algorithms.com/)\
+[Colin Galen - Topic Streams](https://youtube.com/playlist?list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w&si=WpM6kXSUQlyB0boY)\
 [List of CF Blogs 1](https://codeforces.com/blog/entry/91363)\
 [List of CF Blogs 2](https://codeforces.com/blog/entry/57282)\
 [List of CF Blogs 3](https://codeforces.com/blog/entry/13529)\
