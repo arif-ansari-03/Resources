@@ -5,7 +5,8 @@
 [learnpytorch.io](https://www.learnpytorch.io/)\
 [Google Colaboratory](https://colab.research.google.com/)\
 [CIFAR10-CNN [yt/freeCodeCamp.org]](https://www.youtube.com/watch?v=d9QHNkD_Pos)\
-[CNN Blog](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+[CNN Blog](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)\
+[100 days of ML = CampusX, YT](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=T5P_EUulAFpEo0yP)
 
 
 ## General
