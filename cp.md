@@ -50,6 +50,7 @@
 ## Dynamic Programming
 ### Bitmask DP
 [Bitmasks](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)\
+[Exponential in SOS DP is due to N-dimensional prefix sum](https://codeforces.com/blog/entry/105247)\
 [USACO](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
 
 ## Graph Theory
