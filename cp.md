@@ -51,6 +51,7 @@
 ### Bitmask DP
 [Bitmasks](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)\
 [Exponential in SOS DP is due to N-dimensional prefix sum](https://codeforces.com/blog/entry/105247)\
+[Meet in the middle Bitmask](https://www.hackerrank.com/contests/countercode/challenges/subset)\
 [USACO](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
 
 ## Graph Theory
