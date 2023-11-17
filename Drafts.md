@@ -20,3 +20,18 @@ for (int s = 0; s < (1<<n); s++)
 }
 
 // now all the k - subsets such that summation of dp[s][i] (such that i is in s) is equal to k!, are cliques 
+
+
+# Fractional knapsack median method 
+## Michelle Bodnar, Andrew Lohr, CLRS Solutions
+First compute the value of each item, defined to be it’s worth divided by its
+weight. We use a recursive approach as follows: Find the item of median value,
+which can be done in linear time as shown in chapter 9. Then sum the weights
+of all items whose value exceeds the median and call it M. If M exceeds W
+then we know that the solution to the fractional knapsack problem lies in taking
+items from among this collection. In other words, we’re now solving the fractional knapsack problem on input of size n=2. On the other hand, if the weight
+doesn’t exceed W, then we must solve the fractional knapsack problem on the
+input of n=2 low-value items, with maximum weight W − M. Let T(n) denote
+the runtime of the algorithm. Since we can solve the problem when there is only
+one item in constant time, the recursion for the runtime is T(n) = T(n=2) + cn
+and T(1) = d, which gives runtime of O(n).
