@@ -35,7 +35,9 @@
 ## Number Theory
 [Prime Gap](https://en.wikipedia.org/wiki/Prime_gap#:~:text=The%20first%2060%20prime%20gaps,sequence%20A001223%20in%20the%20OEIS) - max prime gap upto 10^9 is 282, useful to prove some solutions\
 [Linear Diophantine Equations (LDE)](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_2150%3A_Higher_Arithmetic/5%3A_Diophantine_Equations/5.1%3A_Linear_Diophantine_Equations)\
-[Positive solutions to LDE](https://math.stackexchange.com/questions/1470541/determining-the-existence-of-solutions-to-the-linear-diophantine-equation-ax)
+[Positive solutions to LDE](https://math.stackexchange.com/questions/1470541/determining-the-existence-of-solutions-to-the-linear-diophantine-equation-ax)\
+[Number of Factors](https://codeforces.com/blog/entry/22317)\
+[Miller Rabin](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test#:~:text=The%20Miller%E2%80%93Rabin%20algorithm%20can,log%20n%20of%20the%20input.)
 
 ## Math
 ### Reversible Operations
