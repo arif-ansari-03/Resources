@@ -61,7 +61,8 @@
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
 
 ## Segment Trees
-[AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)
+[AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)\
+[Merge Sort Tree](https://discuss.codechef.com/t/merge-sort-tree-tutorial/14277)
 
 ## Random blogs
 [Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
