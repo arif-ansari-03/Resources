@@ -51,6 +51,9 @@
 </ul>
 </details>
 
+### Bit Manipulation
+[Working with each bit one at a time](https://codeforces.com/contest/1878/problem/G)
+
 ## Dynamic Programming
 ### Bitmask DP
 [Bitmasks](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)\
