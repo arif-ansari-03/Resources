@@ -12,7 +12,8 @@
 [Hackerrank](https://www.hackerrank.com/)\
 [Kattis](https://open.kattis.com)\
 [CSES](https://cses.fi/problemset/list/)\
-[Project Euler](https://projecteuler.net)
+[Project Euler](https://projecteuler.net)\
+[CLIST](https://clist.by/)
 
 
 ## Useful Links
