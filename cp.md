@@ -64,7 +64,8 @@
 
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
-[Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)
+[Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)\
+[MST minimizes the maximum weight paths](https://codeforces.com/gym/317667/problem/H)
 
 ## Segment Trees
 [AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)\
