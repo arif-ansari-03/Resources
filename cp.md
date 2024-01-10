@@ -56,8 +56,8 @@
 <details>
 <summary>Bit by bit problems</summary>
 <ul>
-  <li><a href="https://codeforces.com/contest/1895/problem/D">CF 430 C</a></li>
-  <li><a href="https://codeforces.com/contest/1878/problem/G">CF 430 C</a></li>
+  <li><a href="https://codeforces.com/contest/1895/problem/D">CF 1895 D</a></li>
+  <li><a href="https://codeforces.com/contest/1878/problem/G">CF 1878 G</a></li>
 </ul>
 </details>
 
