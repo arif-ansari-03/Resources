@@ -45,6 +45,8 @@
 [Miller Rabin](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test#:~:text=The%20Miller%E2%80%93Rabin%20algorithm%20can,log%20n%20of%20the%20input.)
 
 ## Math
+### Theorems
+[Hockey Stick identity](https://mathworld.wolfram.com/ChristmasStockingTheorem.html)
 ### Reversible Operations
 [XOR Trick](https://florian.github.io/xor-trick/)
 <details>
