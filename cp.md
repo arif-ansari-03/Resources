@@ -73,6 +73,9 @@
 [Meet in the middle Bitmask](https://www.hackerrank.com/contests/countercode/challenges/subset)\
 [USACO](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
 
+### Knapsack
+[All possible sums using subsets using bitset, much faster in small dimensions](https://codeforces.com/contest/1970/submission/263159671)
+
 ## Graph Theory
 [-is-this-fft-'s legendary blog](https://codeforces.com/blog/entry/68138)\
 [Maximum Hamiltonian Path in Complete Graph](https://www.mimuw.edu.pl/~rytter/MYPAPERS/fun2012_submission_10.pdf)\
