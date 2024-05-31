@@ -35,7 +35,8 @@
 [Errichto](https://www.youtube.com/@Errichto)
 
 ## Two Pointers, Prefix Sum, Binary Search
-[Sum of all Subarrays (Prefix Sum)](https://www.geeksforgeeks.org/sum-of-all-subarrays/)\\
+[Sum of all Subarrays (Prefix Sum)](https://www.geeksforgeeks.org/sum-of-all-subarrays/)\
+\
 Find smallest i in array A, such that l<=i<=r and A[i] >= k:
 Maximum for subarray A[l,i] increases as i increases.
 So binary search over i to find smallest i such that max of A[l,i] >= k\
