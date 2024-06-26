@@ -96,5 +96,5 @@ So binary search over i to find smallest i such that max of A[l,i] >= k\
 [O(1) runtime prime checking](https://codeforces.com/blog/entry/79941?locale=en)
 
 ## Pitfalls
-stl containers have use unsigned integers for sizes and lengths\
+stl containers use unsigned integers for sizes and lengths\
 using bitwise shift for integers can cause issues, use long long int and use (1LL<<x) instead of (1<<x)
