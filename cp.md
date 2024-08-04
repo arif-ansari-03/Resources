@@ -90,7 +90,9 @@ So binary search over i to find smallest i such that max of A[l,i] >= k\
 ## Segment Trees
 [AI.Cash's Efficient and Easy Segment Tree](https://codeforces.com/blog/entry/18051)\
 [Merge Sort Tree](https://discuss.codechef.com/t/merge-sort-tree-tutorial/14277)\
-[Maximum prefix sum in a range](https://usaco.guide/problems/cses-2166-prefix-sum-queries/solution)
+[Maximum prefix sum in a range](https://usaco.guide/problems/cses-2166-prefix-sum-queries/solution)\
+[Calculate how many numbers are greater than equal to k in a given range](https://stackoverflow.com/questions/39363745/find-the-number-of-elements-greater-than-x-in-a-given-range)
+
 
 ## Random blogs
 [Is scanf/printf ever too slow?](https://codeforces.com/blog/entry/68043)\
