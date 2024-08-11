@@ -100,4 +100,5 @@ So binary search over i to find smallest i such that max of A[l,i] >= k\
 
 ## Pitfalls
 stl containers use unsigned integers for sizes and lengths\
-using bitwise shift for integers can cause issues, use long long int and use (1LL<<x) instead of (1<<x)
+using bitwise shift for integers can cause issues, use long long int and use (1LL<<x) instead of (1<<x)\
+make sure to use 0ll in accumulate(A.begin(), A.end(), 0ll);
